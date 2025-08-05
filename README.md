@@ -1,4 +1,5 @@
-🛒 Flipkart Product Review Chatbot
+##**🛒 Flipkart Product Review Chatbot**
+
 An AI-powered RAG-based chatbot that helps users get product recommendations and review summaries using real customer feedback from Flipkart.
 
 🔍 What It Does
